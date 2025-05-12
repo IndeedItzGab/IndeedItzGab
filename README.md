@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Gabriel Bondoc ✨
 
 - 🔭 My goal is to provide useful utilities or tools to everyone. This is my hobby as a teenager to provide support to a certain projects.
-- 🌱 I’m currently learning Python and C++ programming language
+- 🌱 I’m currently developing Minecraft: Bedrock Edition add-ons that is inspired by a certain project.
 - 🧩 Skills: Website Development, Script Development, Coding, Logical Thinking, Problem Solving, Creativity, and Leadership
 - 🤔 What programming languages that I have mastered? Javascript and Lua
 - 😄 Pronouns: He/Him
