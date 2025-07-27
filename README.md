@@ -13,15 +13,29 @@ I am a teenager that has a passion of website development, programming, and scri
 - CurseForge: https://www.curseforge.com/members/indeed/projects
 
 ## Tecch Stack
-![JavaScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg)
-![Python](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg)
-![C++](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg)
-![HTML](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg)
-![CSS](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg)
-![BASH](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/programming%20languages/bash.svg)
-![SCALA](https://abrudz.github.io/logos/Scala.svg)
-![Lua](https://abrudz.github.io/logos/Lua.svg)
-![TypeScript](https://abrudz.github.io/logos/TypeScript.svg)
+### Languages
+<p align='left'>
+<img src="https://abrudz.github.io/logos/CPlusPlus.svg" alt="C++" height="50" width="50" />
+<img src="https://abrudz.github.io/logos/JS.svg" alt="JavaScript" height="50" width="50" /> 
+<img src="https://abrudz.github.io/logos/TypeScript.svg" alt="TypeScript" height="50" width="50" /> 
+<img src="https://abrudz.github.io/logos/Python.svg" alt="Python" height="50" width="50" /> 
+<img src="https://abrudz.github.io/logos/Scala.svg" alt="Scala" height="50" width="50" /> 
+<img src="https://abrudz.github.io/logos/Lua.svg" alt="Lua" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/bash.svg" alt="Bash" height="50" width="50" /> 
+<img src="https://i.pinimg.com/736x/ee/b3/5d/eeb35df1a6739f4cea43ed1cba70bc25.jpg" alt="Lua" height="50" width="50" /> 
+</p>
+
+### IDE and Text Editor
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/text%20editors/vscode.svg" alt="Visual Studio Code" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/ides/vs-studio.svg" alt="Visual Studio" height="50" width="50" /> 
+</p>
+
+### Tools
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/frameworks/nodejs.svg" alt="Node.JS" height="50" width="50" />
+</p>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndeedItzGab\&rank_icon=github&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndeedItzGab&hide=scala,supercollider,batchfile&langs_count=10\&layout=compact&theme=dark)
