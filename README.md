@@ -28,9 +28,19 @@ I am a passionate programmer with a decent knowledge on modding, website develop
 ![Adnroid](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 
+## Notable Creations
+- [BedrockTeams](https://github.com/IndeedItzGab/BedrockTeams) - This is an Minecraft: Bedrock Edition add-on inspired by BetterTeams. It encourage players to team up and providing useful utility for a team.
+- [LandLocker](https://github.com/IndeedItzGab/LandLocker) - This is a Minecraft: Bedrock Edition add-on inspired by GriefPrevention to give players the right to claim a land that prevents other unauthorize players or damage to cause any griefs in the claimed land.
+- [DiscordCC](https://github.com/IndeedItzGab/DiscordCC) - This is a Minecraft Bedrock Edition script that allow players to chat with people from a discord channel. It's a rich with features, providing simple but better interaction with users.
+
+## Contribution
+- [Newb X Legacy](https://github.com/devendrn/newb-x-mcbe) -  A renderdragon shader made for Minecraft: Bedrock Edtition. It is an enhanced vanilla shader that focuses on being lightweight and having soft aesthetics.
+
 ## Sponsor Me
 [![PayPal](https://img.shields.io/badge/PayPal-%23002991?style=flat&logo=Paypal&logoColor=FFFFFF)](https://www.paypal.me/GabrielBondoc09)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-%23FF6433?style=flat&logo=Ko-Fi&logoColor=FFFFFF)](https://ko-fi.com/indeed_itsgab)
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndeedItzGab\&rank_icon=github&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndeedItzGab&hide=scala,supercollider,batchfile&langs_count=10\&layout=compact&theme=dark)
